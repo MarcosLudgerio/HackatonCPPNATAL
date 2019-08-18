@@ -10,7 +10,7 @@
   >
     <b-carousel-slide
       caption-html=  "Gestão"  
-      text="A Administração ou Gestão é a ciência social que estuda e sistematiza as práticas usadas para administrar. O termo administração significa direção, gerência. Ou seja, é o ato de administrar ou gerir negócios, pessoas ou recursos, com o objetivo de alcançar metas definidas"
+      text="A Administração ou Gestão é a ciência social que estuda e sistematiza as práticas usadas para administrar."
     >
       <img slot="img"  class="d-block img-fluid w-100"
              src="http://s2.glbimg.com/jFL3-zPIRfmUynDwmDooslBTi0k=/e.glbimg.com/og/ed/f/original/2016/04/29/gestao.jpg" alt="image slot" v-on:click="gotoAnyWhere">
