@@ -1,0 +1,20 @@
+.title{
+    width: 100%;
+}
+.container {
+    background-color:rgb(223, 223, 223);
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+    min-height: 70vh;
+}
+.wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    }
+.wrapper main {
+    padding-top: 5vh;
+    flex: 1;
+    padding-bottom: 5vh;
+}
