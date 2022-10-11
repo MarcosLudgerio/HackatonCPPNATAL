@@ -1,2 +1,2 @@
 # HackatonCPPNATAL
-Projeto Hackarhon Natal 2019
+Projeto Hackathon Natal 2019
